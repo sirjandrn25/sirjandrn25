@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sirjan%20Tamang-blue)](https://www.linkedin.com/in/sirjan-tamang-aab9551b4/)  
 [![GitHub](https://img.shields.io/badge/GitHub-sirjandrn25-lightgrey)](https://github.com/sirjandrn25)  
-📧 sirjantmg99@gmail.com | 📞 9816390320
+📧 sirjantmg99@gmail.com 
 
 ---
 
