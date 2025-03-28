@@ -80,15 +80,10 @@ TU Purwanchal Campus, IOE, Dharan
 
 ## 📂 Personal Projects
 
-### Daju Vai Shop – Multi-Vendor E-commerce Application
-- Developed a full-stack e-commerce platform enabling multiple vendors to manage stores
-- Tech Stack: **Next.js**, **TypeScript**, **Prisma**, **PostgreSQL**, **ShadCN**, **Tailwind CSS**  
-[Live Preview](#) | [GitHub](#)
 
 ### SaaS School Management System
 - Built a cloud-based platform for educational institutions to manage operations
 - Tech Stack: **Next.js**, **TypeScript**, **Prisma**, **PostgreSQL**, **ShadCN**, **Tailwind CSS**  
-[Live Preview](#)
 
 ---
 
