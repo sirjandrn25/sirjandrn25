@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Brief
 
-Versatile Full Stack Developer with over 2.5 years of experience in building complex web applications. I have transitioned from leading frontend development to mastering full-stack implementation, demonstrating expertise in **React**, **Next.js**, **TypeScript**, **Node.js**, **Nest Js**, **Express**, and **AWS services**. Proven track record in developing large-scale features across both frontend and backend environments. I also mentor junior developers and collaborate with cross-functional teams. My goal is to deliver high-performance, scalable software solutions that drive business growth.
+Crafting innovative web applications with cutting-edge AI integration. Passionate about building scalable solutions that solve real-world problems.
 
 ---
 
